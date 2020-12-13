@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="ml_progress",
-    version="0.0.1",
+    version="0.0.2",
     author="Greg",
     author_email="rolwesg@gmail.com",
     description="A small example package",
