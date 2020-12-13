@@ -1,2 +1,2 @@
 # ml_progress
-Progress bars and local logs for ML notebooks.
+Progress bars and logs for ML pipelines.
