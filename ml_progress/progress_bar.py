@@ -1,6 +1,8 @@
 import sys
 
-class ProgressBar():
+from .display import Display
+
+class ProgressBar(Display):
     def __init__(self, numerator: str, denominator: str):
         super().__init__()
         self.numerator = numerator
